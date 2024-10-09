@@ -1,9 +1,4 @@
 ## Hi there 👋
-![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juanguppy&theme=default)
-![Lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanguppy&layout=compact&langs_count=100)
-
-
-
 
 <!--
 **Juanguppy/Juanguppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
